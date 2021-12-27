@@ -1,7 +1,5 @@
 <h1 align='center'>Movie task</h1>
 
-An ecommerce web application that helps you to buy clothes online easily.
-
 ![GitHub last commit](https://img.shields.io/github/last-commit/MoShouman/adminViewMovieTask)
 
 ## Built with
