@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: #e8edf7;
+}
+
+.bg-grey{
+    background-color: #e8edf7;
+}
+
+.bg-white{
+    background-color: white;
+}
+
+.movies-section{
+    border-top: 3px solid rgb(94, 191, 223);
+}
+
+.btn-secondary{
+    width: 100%;
+    text-align: left;
+    padding: 10px;
+    background-color: #58df8b;
+    color: black;
+    margin-bottom: 5px;
+}
+
+
+.btn-secondary::after{
+    display: none !important;
+}
+
+.btn-primary{
+    width: 100%;
+    text-align: left;
+    padding: 10px;
+    background-color: lightblue;
+    color: black;
+    margin-bottom: 5px;
+}
+
+.dropdown-menu{
+    background-color: #e8edf7;
+}
