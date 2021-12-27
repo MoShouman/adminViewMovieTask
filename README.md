@@ -8,7 +8,7 @@ reactJS, redux, bootstrap, and JSONloader.
 
 ## Live website:
 
-<a href="https://movietask1.netlify.app/">c-store</a>
+<a href="https://movietask1.netlify.app/">admin task</a>
 
 ## Structure:
 A) |-APP|- Add category page
